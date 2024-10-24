@@ -1,0 +1,3 @@
+#é para eu imprimir o nome ALURA com quebra de linha em todas as letras#
+
+print("A","L","U","R","A", sep= "\n")

@@ -1,0 +1,4 @@
+#Esse é para eu arredondar o numero de pi#
+
+pi = 3.14159
+print(F"O valor de pi é: {round(pi,2)}")
