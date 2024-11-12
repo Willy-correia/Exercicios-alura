@@ -1,9 +1,0 @@
-using System;
-
-Console.WriteLine("#### Primeiro exercício ####\n");
-string curso = "Csharp Criando Primeira Aplicacao\n"; //string para que indique que vou armazenar palavras
-Console.WriteLine(curso); //Console.WriteLine() para que saia no console o que eu armazenei na variável que está dentro dos couxetes
-string nome = "Willyane\n";
-string sobrenome = "Correia\n";
-Console.WriteLine("Guilherme Lima e Daniel Portugal"); //Quando quero que o Console.WriteLine tenha uma saída de exatamente o que eu escrever dentro é so eu colocar aspas
-Console.WriteLine("Guilherme Lima e Daniel Portugal"); //Quando quero que o Console.WriteLine tenha uma saída de exatamente o que eu escrever dentro é so eu colocar aspas
